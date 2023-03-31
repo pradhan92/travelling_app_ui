@@ -1,16 +1,11 @@
 # travelling_app
 
-A new Flutter project.
+<img width="1512" alt="Screenshot 0005-03-31 at 4 45 16 PM" src="https://user-images.githubusercontent.com/113663776/229059379-b6cf7ac2-ffef-436e-b2db-4ab2123249bb.png">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+we use :-
+  1.Listview.builder
+  2.Curved Navigation Bar(footer)
+  3.boxShadow
+  4.forloop
+  5.listview
+ 
